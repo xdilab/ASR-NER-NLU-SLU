@@ -1,0 +1,20 @@
+{
+  "files": {
+    "README.md": "84bb947bf5f276a0c836e1df004af00e2c11085b47a2af72ea708e0275080b44",
+    "prior_prototypes/pt104_fixed_group/pt104_two_group.py": "facf41f698304eb86f9c31a811cf5f62992aff3d9eb1423217f7fc629c90c4a6",
+    "prior_prototypes/pt106_selective_affinity/pt106_policy.py": "94485ac097caf7d3a5c60b49ef37dafc31a2a999bced9218c3bdb932d8cd88a6",
+    "prior_prototypes/pt106_selective_affinity/pt106_selective_affinity.py": "a12f10f21ac92b67bd903cff61cf1e86e89b6c2b5b481fee41703c8494fee6e4",
+    "pt102_preflight.py": "e1d48975d78dac7d9a0d76f7fd08403aa28b1d506345e1534eab67a15d6f5177",
+    "pt108_adapters.py": "86aececbd669ec8b4b8653243558e0b395e85d7996aeb1250fe607dc45efa079",
+    "pt108_matched_router_train.py": "0daf0bff0b0b7654afa0beafa9772698e71c30011dcada60ad8b207adaa72433",
+    "pt61_reference.py": "64499f3dae95d0106532a8f2f5df35ba6f7b0cf61d773a7570cb3fee222b4873",
+    "run_pt108_gpu0.sh": "42363747a5e6e44f0ad215d64c9a0d01588c47afa965edd4025cc4b7d9737b51",
+    "source/01_risk_adaptive_dynamic_k.py": "423db75be0cbbc16ef20b428ebd344ec609cc26443afb5589375b12257ae523e",
+    "source/02_pt57g_asr_specialized_train.py": "37a9dc727dfce477ba11867cec89a8a1487b21bfa41d196807c06161e0acaf26",
+    "source/fixed_top2_base.py": "02cc9ea4bffa79d771acd5956f6a797dc7d692266eb502ccfe9b9f71fcda4890",
+    "test_pt108_cpu.py": "bc4002f079686e0b5daefec54983f35f33c01ea7fcccbda5179527089c53d2d6",
+    "test_pt108_source.py": "433f1c454a3e5043f19cf802077ccc805ffd826c4248d958d474ff698d08d63e"
+  },
+  "note": "PT108 code and prior prototype code copied byte-for-byte; README added for review",
+  "package": "PT108_ROUTING_SOURCE_REVIEW_v1_0"
+}
